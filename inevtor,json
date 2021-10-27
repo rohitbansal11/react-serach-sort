@@ -1,0 +1,37 @@
+{
+    "inventor":[
+    {
+        "id": 1,
+        "product": "milk",
+        "skucode": 2,
+        "seller": "Administrator",
+        "stock": "222",
+        "controls": 372
+    },
+    {
+        "id": 2,
+        "product": "bread",
+        "skucode": 5,
+        "seller": "Rohit",
+        "stock": "221",
+        "controls": 342
+    },
+    {
+        "id": 3,
+        "product": "paneer",
+        "skucode": 7,
+        "seller": "Bansal",
+        "stock": "342",
+        "controls": 452
+    },
+    {
+        "id": 4,
+        "product": "dahi",
+        "skucode": 4,
+        "seller": "Mohit",
+        "stock": "3552",
+        "controls": 3742
+    }
+    
+]
+}
